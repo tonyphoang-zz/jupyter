@@ -1,0 +1,13 @@
+name: python 3.7
+dependencies:
+  - python=3.7
+  - numpy
+  - matplotlib
+  - pandas
+  - watermark
+  - vega
+  - vega_datasets
+  - altair
+  - geopy
+  - wget
+  - pytorch
